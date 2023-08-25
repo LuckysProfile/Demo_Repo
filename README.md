@@ -1,5 +1,6 @@
 # Demo_Repo
-This is my First Repository</br>
-Author - Harsh Kumar
+<h1>Author - Harsh Kumar</h1></br>
+
+<p>This is my First Repository</p>
 
 
